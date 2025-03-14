@@ -1,2 +1,2 @@
 # project-demo
-Builds the programe logic using github
+Builds the programe logic using github.
